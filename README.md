@@ -5,34 +5,34 @@
 ## Summary of mapbiomas code repositories
 
 ### Countries
-* [PERU](https://github.com/mapbiomas-brazil/amazon)      <!-- https://github.com/mapbiomas-brazil/amazon  -->
-* [BOLIVIA](https://github.com/mapbiomas-brazil/atlantic-forest)
-* [VENEZUELA](https://github.com/mapbiomas-brazil/caatinga)
-* [COLOMBIA](https://github.com/mapbiomas-brazil/cerrado)
-* [ECUADOR](https://github.com/mapbiomas-brazil/pampa)
-* [GUYANAS](https://github.com/mapbiomas-brazil/pantanal)
-* [BRAZIL](https://github.com/mapbiomas-brazil)
+* [PERU](https://raisgmb.github.io/aviso-mb-web/)      <!-- https://github.com/mapbiomas-brazil/amazon  -->
+* [BOLIVIA](https://raisgmb.github.io/aviso-mb-web/)
+* [VENEZUELA](https://raisgmb.github.io/aviso-mb-web/)
+* [COLOMBIA](https://raisgmb.github.io/aviso-mb-web/)
+* [ECUADOR](https://raisgmb.github.io/aviso-mb-web/)
+* [GUYANAS](https://raisgmb.github.io/aviso-mb-web/)
+* [BRAZIL](https://raisgmb.github.io/aviso-mb-web/)
 
 ### Cross Cuting themes
-* [Urban Infrastructure](https://github.com/mapbiomas-brazil/urban-infrastructure)
-* [Glacier](https://github.com/mapbiomas-brazil/aquaculture)
-* [Mining](https://github.com/mapbiomas-brazil/mining)
-* [Pasture](https://github.com/mapbiomas-brazil/pasture)
-* [Agriculture](https://github.com/mapbiomas-brazil/agriculture)
-* [Flooded covers and Wetlands](https://github.com/mapbiomas-brazil/water)
-* [Water](https://github.com/mapbiomas-brazil/water)
+* [Urban Infrastructure](https://raisgmb.github.io/aviso-mb-web/)
+* [Glacier](https://raisgmb.github.io/aviso-mb-web/)
+* [Mining](https://raisgmb.github.io/aviso-mb-web/)
+* [Pasture](https://raisgmb.github.io/aviso-mb-web/)
+* [Agriculture](https://raisgmb.github.io/aviso-mb-web/)
+* [Flooded covers and Wetlands](https://raisgmb.github.io/aviso-mb-web/)
+* [Water](https://raisgmb.github.io/aviso-mb-web/)
 
 ### Analysis
 
-* [Accuraccy](https://github.com/mapbiomas-brazil/accuraccy)  <!---POR DEFINIR -->
+* [Accuraccy](https://raisgmb.github.io/aviso-mb-web/)  <!---POR DEFINIR -->
 
 ### Mosaics
-* [Mosaic Creator](https://github.com/mapbiomas-brazil/mosaics/tree/master/biomes)
-* [Mosaic Toolkit](https://github.com/mapbiomas-brazil/mosaic-toolkit)
+* [Mosaic Creator](https://raisgmb.github.io/aviso-mb-web/)
+* [Mosaic Toolkit](https://raisgmb.github.io/aviso-mb-web/)
 
 ### Toolkits
 * [Mapbiomas user toolkit](https://github.com/mapbiomas-brazil/user-toolkit)
-* [Mapbiomas integration toolkit](https://github.com/mapbiomas-brazil/integration-toolkit)
+* [Mapbiomas integration toolkit](https://raisgmb.github.io/aviso-mb-web/)
 
 <!--
 **raisgmb/raisgmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
