@@ -1,11 +1,11 @@
-# Mapbiomas Amazonia in github
+# Mapbiomas Amazonia on github
 
-> Here is available all the scripts used for processing collection 5 of mapbiomas.
+> Here is available all the scripts used for processing collection 3 of mapbiomas Amazonia.
 
 ## Summary of mapbiomas code repositories
 
 ### Countries
-* [PERU](https://github.com/mapbiomas-brazil/amazon)
+* [PERU](https://github.com/mapbiomas-brazil/amazon)      <!-- https://github.com/mapbiomas-brazil/amazon  -->
 * [BOLIVIA](https://github.com/mapbiomas-brazil/atlantic-forest)
 * [VENEZUELA](https://github.com/mapbiomas-brazil/caatinga)
 * [COLOMBIA](https://github.com/mapbiomas-brazil/cerrado)
