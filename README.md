@@ -1,6 +1,6 @@
 # Mapbiomas Amazonia on github
 
-> Here is available all the scripts used for processing collection 3 of mapbiomas Amazonia.
+> Here is available all the scripts used for processing collection 4 of mapbiomas Amazonia.
 
 ## Summary of mapbiomas code repositories (Under construction)
 
