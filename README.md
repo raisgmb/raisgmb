@@ -5,7 +5,7 @@
 ## Summary of mapbiomas code repositories (Under construction)
 
 ### Countries
-* [PERU]([https://raisgmb.github.io/aviso-mb-web/](https://github.com/raisgmb/mapbiomas-public/tree/main/mapbiomas-peru))      <!-- https://github.com/mapbiomas-brazil/amazon  -->
+* [PERU](https://github.com/raisgmb/mapbiomas-public/tree/main/mapbiomas-peru)      <!-- https://github.com/mapbiomas-brazil/amazon  -->
 * [BOLIVIA](https://raisgmb.github.io/aviso-mb-web/)
 * [VENEZUELA](https://raisgmb.github.io/aviso-mb-web/)
 * [COLOMBIA](https://raisgmb.github.io/aviso-mb-web/)
